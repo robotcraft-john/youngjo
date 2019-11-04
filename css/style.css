@@ -402,7 +402,7 @@ button:focus {
 .home_banner_area .banner_inner .home_left_img {
   padding-top: 150px;
   float: left;
-  max-width: 500px;
+  /* max-width: 500px; */
 }
 
 .home_banner_area .banner_inner .col-lg-6 {
@@ -420,6 +420,7 @@ button:focus {
   font-family: "Roboto", sans-serif;
   text-transform: uppercase;
   letter-spacing: 2.1px;
+  padding-top: 150px;
   margin-bottom: 20px;
 }
 
