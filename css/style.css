@@ -506,13 +506,6 @@ button:focus {
     }
 
 
-
-
-
-
-
-
-
 .blog_banner {
   min-height: 780px;
   position: relative;
@@ -3635,7 +3628,7 @@ h6 {
 */
 .column_body img {
   float: left;
-  max-width: 480px;
+  max-width: 100%;
   height: auto;
   border: 2px solid grey;
   margin: 15px;
